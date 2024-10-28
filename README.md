@@ -1,1 +1,3 @@
-# Auto_Send_Emails
+#  Project 2 : Sending Emails with attachment with click of a button
+
+Developed VBA Macro Tool to send emails to recipients with button click.
